@@ -1,0 +1,137 @@
+*{
+    margin: 0;
+}
+
+header{
+height: 100px;
+width: 100%;
+background-color: rgb(47, 136, 132);
+}
+
+
+.logo{
+    width: 30%;
+    height: 100px;
+    background-color: aquamarine;
+    float: left;
+    font-size: 30px;
+    text-align: center;
+   
+}
+
+.Menubar{
+    width: 70%;
+    height: 100px;
+    background-color: rgb(102, 178, 153);
+    float: right;
+    font-size: 30px;
+    text-align: center;
+  
+}
+
+.bar{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(57, 199, 154);
+    font-size: 50px;
+    text-align: center;
+}
+
+.content{
+
+overflow: hidden;
+
+}
+
+.left-content{
+
+    height: 700px;
+    width: 20%;
+    background-color: rgb(133, 183, 166);
+    font-size: 50px;
+    text-align: center;
+    float: left;
+
+
+}
+
+.middle-content{
+    height: 700px;
+    width: 60%;
+    background-color: rgb(36, 90, 72);
+    font-size: 50px;
+    text-align: center;
+float: left;
+
+
+
+
+}
+
+
+
+.Right-content{
+
+    height: 700px;
+    width: 20%;
+    background-color:rgb(133, 183, 166);
+    font-size: 50px;
+    text-align: center;
+    float: left;
+}
+
+
+.top{
+
+height: 30%;
+width: 100%;
+background-color: aquamarine;
+
+
+
+
+
+}
+
+
+.bottom{
+    height: 40%;
+    width: 100%;
+    background-color: rgb(101, 180, 153);
+    overflow: hidden;
+}
+
+
+
+.right{
+    height: 30%;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.left-bottom{
+height: 100%;
+width: 50%;
+background-color: rgb(69, 148, 148);
+float: left;
+
+
+
+}
+
+.Right-bottom{
+
+    height: 100%;
+width: 50%;
+background-color: rgb(94, 175, 175);
+float: right;
+}
+
+
+footer{
+    height: 100px;
+    width: 100%;
+   background-color: rgb(31, 104, 80);
+   text-align: center;
+   font-size: 30px;
+}
